@@ -19,8 +19,8 @@ setup(
     author='Edgar Cabrera',
     author_email='ecabrera@intelimetrica.com',
     packages=['pysignature','pysignature.test'],
-    url='http://stephanepechard.github.com/projy',
-    long_description=open('README.txt').read(),
+    url='https://github.com/intelimetrica/pysignature',
+    long_description=open('README.md').read(),
     install_requires=[''],
     test_suite='pysignature.test',
     classifiers=[
